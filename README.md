@@ -31,7 +31,7 @@ This project reproduces the CIFAR-10 experiments of He et al. (2016), compares p
 
 * **CIFAR-10:** Contains 60,000 images in 10 classes (50,000 training and 10,000 test) and is used to reproduce the paper's results[cite: 4].
 * **CIFAR-100:** Has the same size and image format but 100 fine-grained classes (600 images each) and is used as the new dataset[cite: 4].
-* **Repository:** [github.com/yusrakhosa/diabetes-risk-miner](https://github.com/yusrakhosa/diabetes-risk-miner)[cite: 4, 5]
+* **Repository:** https://github.com/yusrakhosa/resnet-benchmark[cite: 4, 5]
 
 ## 🔄 Planned Approach
 
