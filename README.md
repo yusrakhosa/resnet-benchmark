@@ -70,5 +70,5 @@ The project will use public datasets in accordance with their licences and attri
 ## 📚 References
 
 1. ResNet: Enabling Deep Convolutional Neural Networks through Residual Learning Xingyu Liu
-2. Project repository: [github.com/yusrakhosa/diabetes-risk-miner](https://github.com/yusrakhosa/diabetes-risk-miner)[cite: 4, 5].
+2. Project repository: https://github.com/yusrakhosa/resnet-benchmark[cite: 4, 5].
 3. CIFAR-10 and CIFAR-100: [cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)[cite: 5].
